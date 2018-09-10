@@ -1,5 +1,5 @@
 # RX-Workshop #
-This workshop aims to introduce a beginner reactive programmer to the complete power of the reactive programming. You 
+This workshop aims to introduce a beginner reactive programmer to the complete power of the reactive programming.
 
 For this workshop we going to use Java v8 as programming language. You don't need to be an Java expert to course this workshop, you only need to be familiar with programming fundamentals. Major of topics that this workshop will cover you could implement them in others Rx's extensions such as RxJs, Rx .Net, etc.
 
